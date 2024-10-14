@@ -11,9 +11,7 @@
 </div> 
 <Footer year = {2002}  />
 
-<p>
-    We are all bout 
-</p>
+
 
 <style>
 .imagecontent{
