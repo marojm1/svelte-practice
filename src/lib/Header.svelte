@@ -3,13 +3,12 @@
 </script>
 
 <header>
+  <nav>
+    <a  href="/" >Home</a>
+    <a href ="/about">About</a>
+    <a href="/contact">Contact</a>
+  </nav>
   <h1>{headingTitle}</h1>
-    <nav>
-      <a  href="/" >Home</a>
-      <a href ="/about">About</a>
-        <a href="/contact">Contact</a>
-      
-    </nav>
   
 </header>
 
@@ -27,7 +26,7 @@ nav a:hover {
   color: white;
 }
 nav{
-    background-color: purple;
+    background-color: plum;
     padding:2em;
     border : 2px solid rgb()
     
