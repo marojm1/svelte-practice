@@ -1,8 +1,9 @@
 <script>
+    export let headingTitle;
 </script>
 
 <header>
-  <h1>
+  <h1>{headingTitle}</h1>
     <nav>
       <ul>
           <li><a  href="/" >Home</a></li>
@@ -10,7 +11,7 @@
           <li><a href="/">Contact</a></li>
       </ul>
     </nav>
-  </h1>
+  
 </header>
 
 <style>
