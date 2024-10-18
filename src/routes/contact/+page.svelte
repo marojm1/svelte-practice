@@ -14,7 +14,8 @@
     </label>
     <label for="message">Your message</label>
     <textarea name="message" id="meddage"></textarea>
-</form
+</form>
+
 <style>
     form {
         display: flex;
