@@ -1,0 +1,1 @@
+<h2>News for information</h2>
