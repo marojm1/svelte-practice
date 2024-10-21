@@ -1,3 +1,4 @@
+
 <h2>This is a news article</h2>
 
 <article>
