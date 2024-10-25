@@ -2,7 +2,7 @@
   <aside>
     <p>
       This only a news page
-      <a href="src\routes\news\article\+page.svelte">Article</a>
+      <a href="/news/article">Article</a>
     </p>
   </aside>
 </div>
@@ -13,7 +13,6 @@
   div {
     display: flex;
   }
-  aside {
-    background-color: #aaa;
-  }
+  
+ 
 </style>
