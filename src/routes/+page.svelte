@@ -1,11 +1,13 @@
 <!--Home page-->
 <script>
     import Header from "$lib/Header.svelte"
-    import Footer from "$lib/Footer.svelte"
     import homepic from "$lib/cheetah.jpg"
+    import Footer from "$lib/Footer.svelte"
+    import Counter from "$lib/Counter.svelte"
 </script>
 
 <Header headingTitle ="Home page"/>
+<Counter></Counter>
 <div class = imagecontent>
    <img src={homepic} alt="a pic of a cheetah" >
 </div> 
